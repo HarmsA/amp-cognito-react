@@ -40,7 +40,7 @@ function App() {
                   marginTop: '20px'
                 }}
               >
-                Sign Out
+                Sign Out now
               </button>
             </header>
           </main>
